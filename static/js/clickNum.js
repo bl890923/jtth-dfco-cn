@@ -1,0 +1,1 @@
+document.getElementById('clickNum').innerHTML = '5'
